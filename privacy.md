@@ -3,11 +3,11 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-# Privacy Policy: Iarmailt
+# Privacy Policy: Mullach
 
 *Last updated: 2 October 2026*
 
-Iarmailt has no account, no server of its own, and collects nothing about you.
+Mullach has no account, no server of its own, and collects nothing about you.
 
 It does use the internet, because forecasts and web pages have to come from
 somewhere. This page says exactly what leaves your device, who receives it, and
@@ -20,7 +20,7 @@ Library topics and sections, the photos, videos and voice notes you attach, your
 map pins, your favourite webcams and any webcams you add are kept in a database
 inside the app's own container on your device.
 
-There is no Iarmailt account and no sign-in. Nobody, including the developer,
+There is no Mullach account and no sign-in. Nobody, including the developer,
 can see what you write.
 
 ## iCloud
@@ -30,7 +30,7 @@ same on your iPhone, your iPad and your Mac. This happens automatically when you
 are signed in to iCloud on the device; there is nothing to switch on.
 
 They go into your account's *private* database. Apple encrypts it, the developer
-has no access to it and no way to ask for access, and no other user of Iarmailt
+has no access to it and no way to ask for access, and no other user of Mullach
 can reach it.
 
 If you are not signed in to iCloud, the app keeps working and everything stays
@@ -47,7 +47,7 @@ than this one.
 
 ## Your location
 
-If you allow it, the map shows where you are and can centre on you. Iarmailt
+If you allow it, the map shows where you are and can centre on you. Mullach
 does not record your location, keep a history of it, or send it anywhere on its
 own.
 
@@ -61,7 +61,7 @@ refuse location in your device's Settings at any time, and the app works without
 **Forecasts.** When you open a forecast, or save a hill for offline use, the
 coordinates of that point are sent to **MET Norway** (api.met.no) or to **Apple
 Weather**, whichever you have chosen on the forecast screen. Like any web
-request, this shows the service your device's IP address. Iarmailt adds no name,
+request, this shows the service your device's IP address. Mullach adds no name,
 account or identifier. MET Norway and Apple each handle what they receive under
 their own terms and privacy policies.
 
@@ -72,13 +72,13 @@ policy.
 **Web pages and webcams.** Forecasts from MWIS, the Met Office and the Scottish
 Avalanche Information Service, route pages on Walkhighlands and UKHillwalking,
 crag pages on UKClimbing, hill details, mountain-forecast.com and your webcams
-are loaded from their publishers. Most open inside an Iarmailt window, so for as
+are loaded from their publishers. Most open inside an Mullach window, so for as
 long as you are looking at one you are on that publisher's website, and what that
-site collects, including cookies and advertising, is theirs to describe. Iarmailt
+site collects, including cookies and advertising, is theirs to describe. Mullach
 adds nothing about you to the request. Where it does not know a hill's page on
 UKHillwalking it opens a web search instead.
 
-**Outdooractive and OS Maps.** These links open outside Iarmailt, in the
+**Outdooractive and OS Maps.** These links open outside Mullach, in the
 Outdooractive or OS Maps app if you have it, otherwise your browser. The address
 contains the summit's coordinates, not yours.
 
@@ -96,13 +96,13 @@ your notebook (and your iCloud), and nothing further is sent.
 ## Photos, video and voice notes
 
 Photos and videos are added through the system photo picker, which gives
-Iarmailt only the items you choose and not your library. The microphone is used
+Mullach only the items you choose and not your library. The microphone is used
 only while you are recording a voice note. Everything you add is compressed and
 kept in your notebook, and in your iCloud as above.
 
 ## The diagnostic log
 
-Iarmailt keeps a small text log on your device of technical events, such as
+Mullach keeps a small text log on your device of technical events, such as
 screens opened and errors, to help find faults. It is never sent anywhere. You
 can read or clear it in the app, and you decide whether to share it if you ask
 for help.
@@ -115,7 +115,7 @@ The app does not send it anywhere itself.
 
 ## Children
 
-Iarmailt has no accounts, no messaging, no user-generated content visible to
+Mullach has no accounts, no messaging, no user-generated content visible to
 anyone else, and no purchases. It collects nothing from anyone of any age. The
 web pages it can open belong to other publishers.
 

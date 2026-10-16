@@ -3,11 +3,12 @@ title: Support
 permalink: /support
 ---
 
-# Iarmailt: Support
+# Mullach: Support
 
-Iarmailt is a weather and hills app for hillwalkers and climbers: forecasts for
-any point, a library on reading the sky, links to routes and conditions, and a
-diary of the hills you climb. Free on iPhone, iPad and Mac.
+Mullach is a companion for hillwalkers and climbers: a page for every hill with
+maps, guidebook references and route links, a diary of the hills you climb,
+mountain and avalanche conditions, and a library on what you see up there.
+Free on iPhone, iPad and Mac.
 
 ## Getting help
 
@@ -78,11 +79,11 @@ Webcam pictures come from the owners' sites, which change or go offline. You can
 add your own on the Webcams tab with a web address that starts with https.
 
 **Is it safe to rely on it on the hill?**
-No weather app is. Iarmailt is a learning and planning aid, not a safety system.
+No app is. Mullach is a learning and planning aid, not a safety system.
 Always check the official forecasts and avalanche reports and carry a map and
 compass. The safety note is under **About and safety** in the map's layers menu.
 
-## What Iarmailt does not do
+## What Mullach does not do
 
 No accounts, no subscription, no advertising of its own, no analytics. The
 forecast, map and web pages need a connection; the hill information and the

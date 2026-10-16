@@ -1,6 +1,6 @@
 # iarmailt-docs
 
-The privacy policy and support page for **Iarmailt**, published as web pages
+The privacy policy and support page for **Mullach** (formerly Iarmailt), published as web pages
 because App Store Connect requires both as *URLs*.
 
 Same arrangement as `bardachd-docs`, `fonn-docs` and `Orain`.
