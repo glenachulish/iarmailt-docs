@@ -6,8 +6,9 @@ permalink: /support
 # Mullach: Support
 
 Mullach is a companion for hillwalkers and climbers: a page for every hill with
-maps, guidebook references and route links, a diary of the hills you climb,
-mountain and avalanche conditions, and a library on what you see up there.
+maps, guidebook references and route links, a planner for your hill days, a
+logbook of the hills you climb, mountain and avalanche conditions, and a library
+on what you see up there.
 Free on iPhone, iPad and Mac.
 
 ## Getting help
@@ -59,13 +60,26 @@ downloads** clears the lot. Deleting a download never touches your diary or note
 They open in the Outdooractive or OS Maps app if you have it, otherwise your
 browser, centred on the summit. Those sites work better there.
 
+**How do I plan a hill day?**
+Open a hill on the map and press **Plan a hill day**, or tap the plus on the **Plan**
+tab. Pick your hills and a date, and the forecast, mountain forecasts, map sheets,
+route links and a kit list come together for that day. The plan saves itself for use
+without a signal, and **Share this plan** sends it to someone who isn't coming.
+Deleting a plan deletes its downloads.
+
+**How do I keep a map of my route in a plan?**
+Open OS Maps or Outdooractive from the plan's route links and show your route. Copy
+a screenshot (on a Mac press ⌃⇧⌘4; on iPhone or iPad take a screenshot, tap it,
+then choose Done and Copy and Delete), then press **Paste** in the plan. You can
+also add a picture from Photos or Files.
+
 **How do I log a hill I have climbed?**
-In the **Notebook** tab, tap the plus and choose **Log a hill**. Pick one hill, or
+In the **Logbook** tab, tap the plus and choose **Log a hill**. Pick one hill, or
 several from the same outing, which are saved as a trip. Every hill is still
 counted separately in your totals.
 
 **How do I get my diary out of the app?**
-In the Notebook tab, the plus menu offers **Export as CSV** and **Make a book**,
+In the Logbook tab, the plus menu offers **Export as CSV** and **Make a book**,
 a printable A4 PDF of your hill days that you can filter by year, area or type of
 hill.
 
@@ -76,7 +90,7 @@ Munros, Corbetts and Donalds follow the Scottish Mountaineering Club's tables.
 
 **A webcam doesn't show.**
 Webcam pictures come from the owners' sites, which change or go offline. You can
-add your own on the Webcams tab with a web address that starts with https.
+add your own under Webcams on the Weather tab with a web address that starts with https.
 
 **Is it safe to rely on it on the hill?**
 No app is. Mullach is a learning and planning aid, not a safety system.
